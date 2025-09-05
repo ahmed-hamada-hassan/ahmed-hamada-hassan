@@ -48,7 +48,8 @@ I'm Ahmed from Cairo, Egypt.<br><br>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET logo" /> 
+  <span>Windows Forms</span>
 </div>
 
 ###
