@@ -28,9 +28,9 @@
 
 <p align="left">
 I'm Ahmed from Cairo, Egypt.<br><br>
-- 🔭 I’m working on becoming a Full Stack Developer with .NET Framework. <br>
-- 📚 I'm currently learning advanced topics in .NET <br>
-- ⚡ In my free time I enjoy watching football matches.
+- 🔭 I’m working on becoming an Aspiring Software Engineer. | an Aspiring Full Stack .NET Developer. <br>
+- 📚 I'm currently learning .NET <br>
+- ⚡ In my free time I enjoy watching football matches ⚽.
 </p>
 
 ###
