@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-### I'm Ahmed Hamada <br>Aspiring .NET Full-Stack Developer || Aspiring Software Engineer
+### I'm Ahmed Hamada Ahmed <br>Aspiring .NET Full-Stack Developer || Aspiring Software Engineer
 
 
 ## 🌐 Socials:
